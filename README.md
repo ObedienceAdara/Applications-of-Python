@@ -79,3 +79,7 @@ Please ensure your code adheres to the project's coding standards and includes a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Note
+
+All projects were suggested by [Chat GPT](https://www.chat.openai.com)

@@ -1,4 +1,4 @@
-Sure, here's a list of 100 Python project ideas categorized by difficulty level in artificial intelligence (AI) and machine learning (ML):
+AI and Machine Learning Projects List
 
 ### Beginner Level:
 1. Number Guessing Game using ML

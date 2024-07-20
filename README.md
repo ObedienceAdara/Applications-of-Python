@@ -42,7 +42,7 @@ Python is a versatile and powerful programming language widely used in various f
 ### More Applications
 
 1. [Automation](projects/automation)
-2. [Game Development](game_development)
+2. [Game Development]('Game Development')
 3. [Desktop Applications](projects/desktop_applications)
 4. ...
 

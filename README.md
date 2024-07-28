@@ -74,7 +74,7 @@ Please ensure your code adheres to the project's coding standards and includes a
 - **GitHub:** [@ObedienceAdara](https://github.com/ObedienceAdara)
 - **LinkedIn:** [Obedience Adara](https://www.linkedin.com/in/obedience-adara-5832062b2/)
 - **X:** [ObedienceAdara](https://x.com/ObedienceAdara/) 
-- **Email:** [obedienceadara@gmail.com]
+- **Email:** obedienceadara@gmail.com
 
 ## License
 
